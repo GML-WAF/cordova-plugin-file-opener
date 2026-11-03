@@ -1,0 +1,10 @@
+{
+  "name": "cordova-plugin-file-opener2-electron",
+  "version": "4.0.0",
+  "description": "Electron main-process implementation of cordova-plugin-file-opener2",
+  "main": "index.js",
+  "license": "MIT",
+  "cordova": {
+    "serviceName": "FileOpener2"
+  }
+}
